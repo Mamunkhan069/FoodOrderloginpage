@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backgroundopacity">#AB363535</color>
+    <color name="startcolorgradient">#443C20</color>
+    <color name="endcolorgradient">#e8a564</color>
+    <color name="tintlogocolor">#AC7A4A</color>
+    <color name="goooglecolor">#D81B60</color>
+    <color name="facebookcolor">#3b5998</color>
+    <color name="googlecolor">#F4B400</color>
+    <color name="logocolor">#AC8D35</color>
+    <color name="red">#CA0000</color>
+    <color name="yellow">#f4d300</color>
+    <color name="light_yellow">#BFAE16</color>
+    <color name="orderbtnbg">#E8E8E8</color>
+    <color name="gradientendcolor">#FDE02F</color>
+    <color name="etstrokecolor">#A89202</color>
+</resources>
+
